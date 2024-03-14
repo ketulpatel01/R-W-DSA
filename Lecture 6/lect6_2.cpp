@@ -8,7 +8,7 @@ int main()
     {
         for(int k=5; k > i; k--)
         {
-            cout << " ";
+            cout << "  ";
         } 
         for(int j=1; j<=i; j++)
         {
@@ -22,7 +22,7 @@ int main()
     {
         for(int k=5; k > i; k--)
         {
-            cout << " ";
+            cout << "  ";
         } 
         for(int j=1; j<=i; j++)
         {
